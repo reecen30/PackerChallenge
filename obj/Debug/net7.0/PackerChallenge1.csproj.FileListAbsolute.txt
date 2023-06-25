@@ -1,0 +1,15 @@
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\PackerChallenge1.csproj.AssemblyReference.cache
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\PackerChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\PackerChallenge1.AssemblyInfoInputs.cache
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\PackerChallenge1.AssemblyInfo.cs
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\PackerChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\venas\Desktop\PackerChallenge1\bin\Debug\net7.0\PackerChallenge1.exe
+C:\Users\venas\Desktop\PackerChallenge1\bin\Debug\net7.0\PackerChallenge1.deps.json
+C:\Users\venas\Desktop\PackerChallenge1\bin\Debug\net7.0\PackerChallenge1.runtimeconfig.json
+C:\Users\venas\Desktop\PackerChallenge1\bin\Debug\net7.0\PackerChallenge1.dll
+C:\Users\venas\Desktop\PackerChallenge1\bin\Debug\net7.0\PackerChallenge1.pdb
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\PackerChallenge1.dll
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\refint\PackerChallenge1.dll
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\PackerChallenge1.pdb
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\PackerChallenge1.genruntimeconfig.cache
+C:\Users\venas\Desktop\PackerChallenge1\obj\Debug\net7.0\ref\PackerChallenge1.dll
